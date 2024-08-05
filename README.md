@@ -1,3 +1,4 @@
-# ch44-gitcollab## Branches
+# ch44-gitcollab
+## Active Branches
 - dev
 - anaye-dev
